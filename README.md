@@ -1,7 +1,7 @@
 <h1>Hello! I'm Brandon Ortega</h1>
 
 <p>✨ I am a developer with experience in Web and Mobile Development. I lost access to my github account from college so some of the projects will be in my college github account. I am passionate about learning and trying new things in CS. 
-My current aim is to gain more web development experience and aim to become a full stack developer.</p>
+My current aim is to gain more web development experience and become a full stack developer.</p>
 
 <h2>Connect with me</h2>
 
